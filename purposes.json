@@ -1,0 +1,14 @@
+{
+    "purposes": [
+        "To display speed in miles per hour instead of kilometers per hour.",
+        "To use the HUD (Head-Up Display) feature.",
+        "For everyday driving.",
+        "For accurate speed measurement.",
+        "When the speedometer in the car is broken.",
+        "When the size of tires or rims on the car has changed.",
+        "For monitoring maximum speed.",
+        "To determine flight speed (if, for example, you're a pilot).",
+        "To determine train speed.",
+        "To determine running speed."
+    ]
+}
