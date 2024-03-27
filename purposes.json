@@ -8,7 +8,7 @@
         "When the size of tires or rims on the car has changed.",
         "For monitoring maximum speed.",
         "To determine flight speed (if, for example, you're a pilot).",
-        "To determine train speed.",
-        "To determine running speed."
+        "To determine running speed.",
+        "Other"
     ]
 }
