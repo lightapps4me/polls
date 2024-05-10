@@ -1,13 +1,13 @@
 {
     "purposes": [
-        "To display speed in miles per hour instead of kilometers per hour.",
-        "To use the HUD (Head-Up Display) feature.",
-        "For everyday driving.",
-        "For accurate speed measurement.",
-        "When the speedometer in the car is broken.",
-        "When the size of tires or rims on the car has changed.",
-        "For monitoring maximum speed.",
-        "To determine flight speed (if, for example, you're a pilot).",
-        "To determine running speed."
+        "For everyday city driving.",
+        "For measuring speed on highways or during long trips.",
+        "To control speed in speed-limited zones.",
+        "For monitoring maximum speed during trips.",
+        "When the car's primary speedometer is malfunctioning or inaccurate.",
+        "To use the HUD (Head-Up Display) feature for enhanced driving convenience and safety.",
+        "When the size of tires or rims on the car has changed, to verify speedometer accuracy.",
+        "For conducting vehicle performance tests, such as acceleration tests.",
+        "When the speedometer in the car is broken."
     ]
 }
