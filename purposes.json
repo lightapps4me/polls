@@ -1,13 +1,8 @@
 {
     "purposes": [
-        "For everyday city driving.",
-        "For measuring speed on highways or during long trips.",
-        "To control speed in speed-limited zones.",
-        "For monitoring maximum speed during trips.",
-        "When the car's primary speedometer is malfunctioning or inaccurate.",
-        "To use the HUD (Head-Up Display) feature for enhanced driving convenience and safety.",
-        "When the size of tires or rims on the car has changed, to verify speedometer accuracy.",
-        "For acceleration tests (0-60 MPH, 0-100 KMH).",
-        "When the speedometer in the car is broken."
+        "To measure speed using an alternative to a mechanical speedometer.",
+        "To keep track of a statistics (distance, speed, etc) for trips, rides, and walks.",
+        "To conduct acceleration and max speed tests.",
+        "To control max speed."
     ]
 }
