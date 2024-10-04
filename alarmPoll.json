@@ -1,0 +1,27 @@
+{
+    "questions": [
+        {
+            "question" : "How would you feel if you could no longer use Music Alarm?",
+            "answers" : [
+                "Very disappointed",
+                "Somewhat disappointed",
+                "Not disappointed"
+            ]
+        },
+        {
+            "question" : "Please help us understand why you selected this answer?"
+        },
+        {
+            "question" : "What would you use if Music Alarm were no longer available?"
+        },
+        {
+            "question" : "What is the main benefit you receive from using Music Alarm?"
+        },
+        {
+            "question" :  "What type of person do you think would benefit most from Music Alarm?"
+        },
+        {
+            "question" : "How can we improve Music Alarm for you?"
+        }
+    ]
+}
