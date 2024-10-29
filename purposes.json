@@ -1,8 +1,8 @@
 {
     "purposes": [
-        "To measure speed using an alternative to a mechanical speedometer.",
-        "To keep track of a statistics (distance, speed, etc) for trips, rides, and walks.",
-        "To conduct acceleration and max speed tests.",
-        "To control max speed."
+        "Measure speed with an alternative to a mechanical speedometer.",
+        "Track statistics (distance, speed, etc.) for trips, rides, and walks.",
+        "Conduct acceleration and max speed tests.",
+        "Control max speed."
     ]
 }
